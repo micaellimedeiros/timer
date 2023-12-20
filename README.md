@@ -1,27 +1,33 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+   # Timer 🕐
 
-Currently, two official plugins are available:
+   ![timer](https://github.com/micaellimedeiros/timer/assets/54600663/af259be5-99ca-4e88-b902-4c154101dbb8)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+   The following tools were used in the construction of the project:
+   Website (React + TypeScript)
+   
+   - ✔ Vite
+   - ✔ ReactJS
+   - ✔ TypeScript
+   - ✔ Styled Components
+   - ✔ Phosphor Icons
+   - ✔ date-fns
+   - ✔ React Hook Form
+   - ✔ Zod
+   - ✔ React Router
+   - ✔ Immer
+   
+   ## Setup
+   
+   - Install project dependencies;
+   
+           npm install
+   
+   - Run project in development mode;
+   
+           npm run dev
+   
+   <hr />
+<div align="center">
+   ## Happy coding!
+</div>

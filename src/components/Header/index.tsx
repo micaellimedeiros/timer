@@ -12,11 +12,11 @@ export function Header() {
       </span>
 
       <nav>
-        <NavLink to="/" title="Timer">
+        <NavLink to="/timer" title="Timer">
           <Timer size={24} />
         </NavLink>
 
-        <NavLink to="/history" title="Histórico">
+        <NavLink to="/timer/history" title="Histórico">
           <Scroll size={24} />
         </NavLink>
       </nav>
